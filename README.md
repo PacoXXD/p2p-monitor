@@ -1,6 +1,6 @@
 # p2p-monitor
 
-A program that monitor the info  peers in file share p2p network send back.
+A program that monitor the info  that peers in file share p2p network send back.
 
 
 
